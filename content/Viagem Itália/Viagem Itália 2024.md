@@ -1,3 +1,10 @@
+---
+title: Introdução
+draft: false
+tags:
+---
+
+
 Data: Início de Setembro
 Duração: 4 semanas?
 Média: 6000 ida e volta
@@ -22,11 +29,6 @@ Integrantes: [[Ilaria Cambieri]], [[Tania Regina]], [[Thiago Passeri]]
 	- [ ] conta XP com investimento 5mil min - cartão black
 		- [ ] conta black inter (250k invest)
 		- [ ] c6 (invest)
-
-## Idioma Italiano
-
-[[meu vocabulário Italiano]]
-[[minhas ilhas italianas]]
 
 
 ## Roteiro da viagem

@@ -5,8 +5,8 @@ longform:
   workflow: Default Workflow
   sceneFolder: /
   scenes:
-    - Read Me
     - Introdução
+    - Viagem Itália 2024
   sceneTemplate: templates/chapter.md
   ignoredFiles: []
 ---
