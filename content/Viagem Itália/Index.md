@@ -7,6 +7,7 @@ longform:
   scenes:
     - Introdução
     - Viagem Itália 2024
+    - roteiro itália 2024
   sceneTemplate: templates/chapter.md
   ignoredFiles: []
 ---
